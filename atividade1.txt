@@ -1,4 +1,4 @@
 //console
 1-22-333
 //memoria valor de i
-0 1 2 
+0 1 2 3
