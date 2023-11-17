@@ -1,0 +1,5 @@
+//console
+o valor buscado está entre as maravilhas
+
+//memória de valor de i
+0 1 2 
